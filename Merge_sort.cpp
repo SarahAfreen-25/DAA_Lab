@@ -1,4 +1,4 @@
-#include <iostream.h>
+#include <iostream>
 using namespace std;
 
 // Function to merge two subarrays
